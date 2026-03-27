@@ -40,8 +40,8 @@ Week 2 has no limitations. It was a basic EDA to discover any missing data and f
 4. Group Agreement & Attestation
 By signing below, all team members confirm that the work contained within this repository is the result of a collaborative effort and that all individual contributions are fairly represented in the log above.
 
-Member 1 (Name): Kaylynn Francisco-Nelson Date: 27 March 2026
-Member 2 (Name): Akhilshyam Bollepally Date: 27 March 2026
+<p>Member 1 (Name): Kaylynn Francisco-Nelson Date: 27 March 2026</p>
+<p>Member 2 (Name): Akhilshyam Bollepally Date: 27 March 2026</p>
 
 
 
