@@ -7,11 +7,12 @@
 This log tracks the primary responsibilities and contributions of each team member throughout the project lifecycle.
 | Member Name | Key Responsibilities | Deliverables/Nodes Owned | Percentage Effort |
 |----------|----------|----------|----------|
-|Week 2| Kaylynn  | Team Lead, Data Preprocessing  | Data Audit & EDA  | 50% |
-|Week 2| Akhil | Model Architect | Document and Github Configuration | 50% |
-|Week 3| Kaylynn  | Team Lead, Data Preprocessing  | Admin/Documentation, Review Workflow | 50% |
-|Week 3| Akhil | Model Architect | Data Binning & Boolean Transformation | 50% |
-
+|Week 2| Kaylynn  | Team Lead, Data Preprocessing  | Data Audit & EDA  |
+|Week 2| Akhil | Model Architect / Document and Github Configuration | 50% |
+|Week 3| Kaylynn  | Team Lead, Data Preprocessing  / Admin/Documentation, Review Workflow | 50% |
+|Week 3| Akhil | Model Architect / Data Binning & Boolean Transformation | 50% |
+|Week 4| Kaylynn  | Association pipeline creation  / Update Github Files | 50% |
+|Week 4| Akhil | Update Weekly discussion / Update readme | 50% |
 
 
 ## 2. Version Control & Infrastructure
