@@ -13,7 +13,8 @@ This log tracks the primary responsibilities and contributions of each team memb
 |Week 3| Akhil | Model Architect / Data Binning & Boolean Transformation | 50% |
 |Week 4| Kaylynn  | Association pipeline creation  / Update Github Files | 50% |
 |Week 4| Akhil | Update Weekly discussion / Update readme | 50% |
-
+|Week 5| Kaylynn  | Deep Dive / Strategy | 50% |
+|Week 5| Akhil | Update Weekly discussion / Update readme | 50% |
 
 ## 2. Version Control & Infrastructure
 
