@@ -15,6 +15,7 @@ This log tracks the primary responsibilities and contributions of each team memb
 |Week 4| Akhil | Update Weekly discussion / Update readme | 50% |
 |Week 5| Kaylynn  | Deep Dive / Strategy | 50% |
 |Week 5| Akhil | Update Weekly discussion / Update readme | 50% |
+|Week 6| Kaylynn  | Finalize & Annotate workflow / Write Report | 50% |
 
 ## 2. Version Control & Infrastructure
 
